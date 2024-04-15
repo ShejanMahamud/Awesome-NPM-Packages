@@ -35,3 +35,7 @@
 [slick-slider](https://www.npmjs.com/package/aos) - slider pacakge
 
 [react-icons](https://react-icons.github.io/react-icons) - icon pacakge
+
+# Contribute
+
+- If you have any suggestions of npm packages contribute on this repo.
