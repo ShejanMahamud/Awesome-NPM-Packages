@@ -1,4 +1,6 @@
-# NPM Packages i used in my projects
+# NPM Packages That Enhance My Projects
+
+- In my coding journey, NPM packages are like magical ingredients that add sparkle to my projects. They're not just tools; they're like a secret sauce that makes coding more fun and exciting. Here are some of my favorite NPM packages that I rely on to bring my ideas to life:
 
 [React-Paginate](https://www.npmjs.com/package/react-paginate) - A ReactJS component to render a pagination.
 
@@ -31,3 +33,5 @@
 [react-skeleton](https://www.npmjs.com/package/react-loading-skeleton) - loading animation pacakge
 
 [slick-slider](https://www.npmjs.com/package/aos) - slider pacakge
+
+[react-icons](https://react-icons.github.io/react-icons) - icon pacakge
