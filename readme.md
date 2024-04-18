@@ -36,6 +36,10 @@
 
 [react-icons](https://react-icons.github.io/react-icons) - icon pacakge
 
+[axios](https://axios-http.com/docs/intro) - Promise based HTTP client for the browser and node.js
+
+[react-tooltip](https://www.npmjs.com/package/react-tooltip) - tooltip pacakge
+
 # Contribute
 
 - If you have any suggestions of npm packages contribute on this repo.
