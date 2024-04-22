@@ -40,6 +40,11 @@
 
 [react-tooltip](https://www.npmjs.com/package/react-tooltip) - tooltip pacakge
 
+[dot-env](https://www.npmjs.com/package/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env
+
+[sweetalert2](https://www.npmjs.com/package/sweetalert2) - A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement
+for JavaScript's popup boxes. Zero dependencies.
+
 # Contribute
 
 - If you have any suggestions of npm packages contribute on this repo.
